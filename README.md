@@ -13,7 +13,7 @@ This is a simple example of how to build an application using the Keycloak gem a
 
 ## Step by Step
 
-* 1. Clone this project
+* **1. Clone this project**
 
 * 2. Create a new realm:
 
@@ -87,4 +87,4 @@ $ rails s
 
 ![Alt text](docs/see_your_email.png "See your email")
 
-* In [docs](https://github.com/imagov/example-gem-keycloak/tree/master/docs) folder there are the realm file exported and all images of this documentation.
+**In [docs](https://github.com/imagov/example-gem-keycloak/tree/master/docs) folder there are the realm file exported and all images of this documentation.**
