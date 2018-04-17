@@ -2,9 +2,9 @@
 
 ## Versions
 
-ruby 2.5.0p0 (2017-12-25 revision 61468) [x86_64-linux]
-Rails 5.1.6
-gem 'keycloak', '~> 2.3', '>= 2.3.2'
+* ruby 2.5.0p0 (2017-12-25 revision 61468) [x86_64-linux]
+* Rails 5.1.6
+* gem 'keycloak', '~> 2.3', '>= 2.3.2'
 
 ---
 ## Description
