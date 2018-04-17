@@ -13,9 +13,9 @@ This is a simple example of how to build an application using the Keycloak gem a
 
 ## Step by Step
 
-### **1.** Clone this project
+**1.** Clone this project
 
-### **2.** Create a new realm:
+**2.** Create a new realm:
 
 ![Alt text](docs/realm.png "New Realm")
 
