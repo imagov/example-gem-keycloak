@@ -9,7 +9,7 @@ gem 'keycloak', '~> 2.3', '>= 2.3.2'
 ---
 ## Description
 
-This is a simple example of how to build an application using the Keycloak gem and using the views from your own application.
+This is a simple example of how to build an application using [gem Keycloak](https://github.com/imagov/keycloak) and using the views from your own application.
 
 ## Step by Step
 
