@@ -1,0 +1,11 @@
+{
+  "realm": "realm_gem",
+  "auth-server-url": "https://sso-desenv.ima.sp.gov.br/auth",
+  "ssl-required": "external",
+  "resource": "my_application",
+  "credentials": {
+    "secret": "459db71a-7cd3-4413-bcb0-2ae2b0c8261a"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}

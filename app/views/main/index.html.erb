@@ -1,0 +1,8 @@
+<div class="row col-md-offset-1">
+  <h4>Hello, <%=@user['name'] %></h4>
+</div>
+<div class="row col-md-offset-1">
+  <div class="col-md-5">
+    <%= link_to("Logout", session_logout_path, method: :delete) %>
+  </div>
+</div>

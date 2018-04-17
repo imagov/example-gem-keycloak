@@ -1,0 +1,19 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4>Sign Up</h4>
+  </div>
+  <div class="panel-body">
+    <div class="col-lg-6">
+    <%= bootstrap_form_tag url: users_path, method: :post do |f| %>
+
+      <%= f.text_field :first_name, autofocus: true %>
+      <%= f.text_field :last_name %>
+      <%= f.email_field :email, autocomplete: "off" %>
+      <%= f.password_field :password, autocomplete: "off", placeholder: 'Passowrd'%>
+      <%= f.password_field :password_confirmation, autocomplete: "off", placeholder: 'Confirm your password' %>
+
+      <%= f.submit "Sign Up", class:"btn btn-primary" %>
+    <% end %>
+    </div>
+  </div>
+</div>
